@@ -2,8 +2,8 @@ import React from 'react';
 
 const Navbar = props => {
     return(
-        <nav>
-            <h1>NAVBAR</h1>
+        <nav className="text-center navstyle">
+            <h1 className="py-4">PROYECTO REACT PARA MOVEAPPS</h1>
         </nav>
     );
 }

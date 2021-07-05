@@ -2,8 +2,8 @@ import React from 'react';
 
 const Footer = props => {
     return(
-        <footer>
-            <h1>FOOTER</h1>
+        <footer className="text-center">
+            <h1>CREADO POR JEROSANTAMARIAI</h1>
         </footer>
     );
 }

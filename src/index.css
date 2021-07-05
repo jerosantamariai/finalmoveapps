@@ -2,6 +2,26 @@ body {
     background-color: rgb(194, 194, 194) !important;
 }
 
+.navstyle {
+    background-color: black;
+}
+
+.navstyle h1 {
+    color: white !important;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    padding: 1rem;
+    position: absolute;
+    bottom: 0;
+}
+
+footer h1 {
+    color: white !important;
+}
+
 .rows {
     padding: 4rem;
 }
@@ -10,6 +30,19 @@ body {
     border-radius: 4rem;
     height: 120px !important;
     text-align: center !important;
+}
+
+.buttons {
+    margin: 2rem;
+}
+
+.user-cont {
+    margin: 1em auto;
+    padding: 0 2em !important;
+}
+
+.ultraCard {
+    width: 90%;
 }
 
 @media (max-width: 1350px) {
